@@ -1,0 +1,2 @@
+# Laboratorio_2_r
+Segunda práctica de laboratorio de la clase FUNDAMENTOS DE PROGRAMACIÓN Y SCRIPTING en la maestría  INGENIERÍA PARA LA INDUSTRIA CON ESPECIALIDAD EN CIENCIAS DE LA COMPUTACIÓN
